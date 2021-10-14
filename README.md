@@ -2,7 +2,7 @@
 A simple java chat application
 
 > Java Chat is a simple chat program  
-> which allows for a server with multiple
+> that allows for a server with multiple
 > client programs to join.
         <ul>
         <li><b>@nickname</b> to send a private message to the user 'nickname'</li>
