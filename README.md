@@ -13,3 +13,4 @@ A simple java chat application
 
 
 
+<img width="433" alt="Screenshot 2021-10-14 105439" src="https://user-images.githubusercontent.com/92515319/137385605-69e172f8-b9a0-4a75-9aa2-ea2783a648c5.png">
